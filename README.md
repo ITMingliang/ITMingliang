@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ITMingliang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 My cnblogs：https://www.cnblogs.com/wml-it/
+- 👀 My Gitee：https://gitee.com/mingliang_it
+- 👀 My GitHub：https://gitee.com/mingliang_it
+- 🌱 I’m currently learning Microservices，K8s，RabbitMQ，Redis，Docker，Grps，Ids4，C++，Vue
+- 💞️ 
+- 📫 How to reach me ：WchartID：bbxy_wml
 
-<!---
-ITMingliang/ITMingliang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
